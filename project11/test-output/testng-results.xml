@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="604" started-at="2019-09-04T06:41:55 PDT" finished-at="2019-09-04T06:41:55 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="604" started-at="2019-09-04T06:41:55 PDT" finished-at="2019-09-04T06:41:55 PDT">
+      <class name="com.project11.TestngAnnotations">
+        <test-method status="PASS" signature="InitateDriver()[pri:0, instance:com.project11.TestngAnnotations@43814d18]" name="InitateDriver" is-config="true" duration-ms="123" started-at="2019-09-04T06:41:55 PDT" finished-at="2019-09-04T06:41:55 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitateDriver -->
+        <test-method status="PASS" signature="Firsttest()[pri:0, instance:com.project11.TestngAnnotations@43814d18]" name="Firsttest" duration-ms="75" started-at="2019-09-04T06:41:55 PDT" finished-at="2019-09-04T06:41:55 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firsttest -->
+      </class> <!-- com.project11.TestngAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
